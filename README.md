@@ -29,5 +29,4 @@ A responsive and interactive web application for fitness tracking, exercise rout
 
 - **Frontend**: HTML5, CSS3, JavaScript
 - **Backend**:   Node.js, etc.
-- **Database**: 
 - **Hosting**: GitHub
