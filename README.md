@@ -30,3 +30,23 @@ A responsive and interactive web application for fitness tracking, exercise rout
 - **Frontend**: HTML5, CSS3, JavaScript
 - **Backend**:   Node.js, etc.
 - **Hosting**: GitHub
+
+
+## 📸 Screenshots
+
+! ![code png](https://github.com/user-attachments/assets/56e87481-6f0d-4867-ae0f-c2ad700ab78c)
+
+## 📂 Project Structure
+Elitr-Fitness-app/
+├── index.html
+├── about.html
+├── workouts.html
+├── css/
+│ └── style.css
+├── js/
+│ └── script.js
+├── images/
+├── README.md
+
+
+
