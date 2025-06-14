@@ -23,3 +23,11 @@ A responsive and interactive web application for fitness tracking, exercise rout
 - 📊 Progress tracking (BMI, weight, etc.)
 - 🔍 Search and filter workouts
 - Responsive design for mobile & desktop.
+
+
+## 🔧 Tech Stack
+
+- **Frontend**: HTML5, CSS3, JavaScript
+- **Backend**:   Node.js, etc.
+- **Database**: 
+- **Hosting**: GitHub
