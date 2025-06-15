@@ -66,5 +66,27 @@ Elitr-Fitness-app/
 🙋‍♂️ Author
 . Danapana Akash Reddy
 . Email: danapanaakashreddy999@gmail.com
-. LinkedIn: 
+. LinkedIn: https://www.linkedin.com/in/akash-reddy-a761b3321
+
+
+📄 License
+This project is open source under the MIT License.
+
+
+---
+
+## 💻 Getting Started
+
+### 🔧 Prerequisites
+- Node.js installed
+- Basic understanding of Express
+
+### ⚙️ Installation
+
+```bash
+git clone https://github.com/akashreddy-ops/elite-fitness-app.git
+cd elite-fitness-app
+npm install
+node app.js
+
 
