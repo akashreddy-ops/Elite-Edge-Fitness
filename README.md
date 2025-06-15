@@ -56,5 +56,10 @@ Elitr-Fitness-app/
    git clone https://github.com/akashreddy-ops/Elite-Edge-Fitness
 
 
+## 🎯 Future Improvements
 
+- Add form validation and error handling
+- Upload user profile images using Multer
+- Display progress charts (BMI, workout stats)
+- Deploy on Render or Vercel
 
