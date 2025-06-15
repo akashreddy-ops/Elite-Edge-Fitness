@@ -63,3 +63,8 @@ Elitr-Fitness-app/
 - Display progress charts (BMI, workout stats)
 - Deploy on Render or Vercel
 
+🙋‍♂️ Author
+. Danapana Akash Reddy
+. Email: danapanaakashreddy999@gmail.com
+. LinkedIn: 
+
